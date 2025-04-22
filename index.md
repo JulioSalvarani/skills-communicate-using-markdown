@@ -7,3 +7,4 @@
 coisa coiso coisa
 
 eu fiz testes
+![Image of Terracottocat](https://octodex.github.com/images/Terracottocat_Group.png)
